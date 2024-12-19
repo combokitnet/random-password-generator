@@ -46,7 +46,7 @@ This tool was built using:
 We welcome contributions to improve the tool. If you have suggestions or want to report a bug, feel free to open an issue or submit a pull request.
 
 ## 📧 Contact
-For feedback or inquiries, visit [combokit.net](https://combokit.net) or reach out to us via the [contact form](https://combokit.net/contact).
+For feedback or inquiries, visit [combokit.net](https://combokit.net) or reach out to us via the [contact form](https://combokit.net/about).
 
 ---
 
